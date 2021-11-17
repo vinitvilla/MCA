@@ -1,0 +1,1 @@
+export const HEADER_CONTENT = [ "Home", "News", "Team", "Match", "About", "Contact"];
